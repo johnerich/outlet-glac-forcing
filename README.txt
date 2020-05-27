@@ -3,5 +3,5 @@ These are scripts for two-stage outlet glacier model (developed by Robel et al. 
 Paper (Christian et al.): https://www.the-cryosphere-discuss.net/tc-2019-301/
 (still in discussion as of posting)
 
-Two-stage model developed in Robel, Roe, and Hasselof, 2018 JGR-ES:
+Two-stage model developed in Robel, Roe, and Haseloff, 2018 JGR-ES:
 https://doi.org/10.1029/2018JF004709
